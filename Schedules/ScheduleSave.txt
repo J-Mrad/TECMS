@@ -1,0 +1,116 @@
+Movies:
+Shrek
+10.0
+Cast:
+Eddie Murphy 35 10.0
+Cameron Diaz 25 8.0
+Mike Myers 54 9.0
+ShowRooms:
+Room 1
+IMAX
+ShowTimes:
+1529323200686
+1529496000686
+1529668800686
+ShowTimesEnd
+Room 2
+IMAX
+ShowTimes:
+1529323200686
+1529496000686
+1529668800686
+ShowTimesEnd
+Room 3
+4DX
+ShowTimes:
+1529323200686
+1529496000686
+1529668800686
+ShowTimesEnd
+Room 4
+VIP
+ShowTimes:
+1529323200686
+1529496000686
+1529668800686
+ShowTimesEnd
+Movies:
+Avangers
+10.0
+Cast:
+ShowRooms:
+Room 2
+IMAX
+ShowTimes:
+1529258400067
+1529776800067
+ShowTimesEnd
+Room 3
+4DX
+ShowTimes:
+1529258400067
+1529776800067
+ShowTimesEnd
+Movies:
+Pirates of the Caribbean
+8.0
+Cast:
+Johny Depp 42 10.0
+ShowRooms:
+Room 1
+IMAX
+ShowTimes:
+1529305200905
+1529478000905
+1529650800905
+ShowTimesEnd
+Movies:
+Deadpool
+9.0
+Cast:
+ShowRooms:
+Room 2
+IMAX
+ShowTimes:
+1529305200370
+1529478000370
+1529650800370
+ShowTimesEnd
+Room 2
+IMAX
+ShowTimes:
+1529305200370
+1529478000370
+1529650800370
+ShowTimesEnd
+Room 3
+4DX
+ShowTimes:
+1529305200370
+1529478000370
+1529650800370
+ShowTimesEnd
+Room 4
+VIP
+ShowTimes:
+1529305200370
+1529478000370
+1529650800370
+ShowTimesEnd
+Movies:
+Twilight
+2.0
+Cast:
+ShowRooms:
+Room 3
+4DX
+ShowTimes:
+1529409600049
+1529582400049
+ShowTimesEnd
+Room 4
+VIP
+ShowTimes:
+1529409600049
+1529582400049
+ShowTimesEnd

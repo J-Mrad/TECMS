@@ -1,0 +1,17 @@
+165000.0
+potato
+20000.0
+47
+true true false
+Popcorn
+5000.0
+1019
+true true true
+natchos
+20000.0
+85
+false false true
+Drinks
+5000.0
+106
+true true true
