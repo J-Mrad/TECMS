@@ -1,8 +1,8 @@
 # TECMS
 The Eclipse Cinema Management System
-
+<center>
 ![Logo](https://i.imgur.com/Y3UOoNd.png)
-
+</center>
 ![P1](https://i.gyazo.com/754151e39e4970a5add3a0abe21e2d17.png)
 
 TECMS was the first college project I worked on in mid 2017 over the course of a month. It is, as the name suggests, a quite basic cinema management GUI.
